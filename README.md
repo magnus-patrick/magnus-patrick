@@ -1,4 +1,4 @@
-My name is Patrick Floirendo!
+Hey, I'm Patrick!
 
 - 🌱 A novice at the Python language!
 - ⚛️ Striving towards a branch of physics in the future!
