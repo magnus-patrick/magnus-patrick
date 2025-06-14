@@ -2,6 +2,6 @@ Hey, I'm Patrick!
 
 - 🌱 A novice at the Python language!
 - ⚛️ Striving towards a branch of physics in the future!
-- 📚 Libraries used so far: SymPy, NumPy, SciPy, Matplotlib, Tkinter
+- 📚 Libraries attempted so far: SymPy, NumPy, SciPy, Matplotlib, Tkinter, Pandas
 - 💻 Code Editor: VS Code
 - 📧 Contact me (timmyjb08@gmail.com)
